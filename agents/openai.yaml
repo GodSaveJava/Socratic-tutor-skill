@@ -1,0 +1,7 @@
+interface:
+  display_name: "Socratic Tutor"
+  short_description: "Guided coding tutor with concise prompts"
+  default_prompt: "Use $socratic-tutor to guide me through this coding task with questions and concise explanations."
+
+policy:
+  allow_implicit_invocation: true
