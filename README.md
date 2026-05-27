@@ -4,6 +4,8 @@ English · [中文](./README.zh.md)
 
 `Socratic Tutor` is a Codex skill for development scenarios. It helps you understand what you are building through questions, layered explanations, and diagrams when they genuinely help.
 
+It can also be used for everyday learning when you want guided thinking instead of a direct answer.
+
 ## Definition
 
 Socratic guidance is a dialog-based approach:
