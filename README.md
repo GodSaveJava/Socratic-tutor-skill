@@ -6,6 +6,12 @@ English · [中文](./README.zh.md)
 
 It can also be used for everyday learning when you want guided thinking instead of a direct answer.
 
+> "Socratic Tutor" is not a lofty lecturer. It is more like a "midwife for thought."
+>
+> The idea comes from the ancient Greek philosopher Socrates. He believed knowledge was not poured into the mind from the outside. Instead, it already exists within the learner, and the tutor's job is not to hand over answers, but to use a sequence of logical questions to help those answers emerge.
+
+Vibecoding is fast and energizing, but its biggest trap is that it can turn you into a "code mover." You finish the conversation with working code, yet you still have not really absorbed the architecture or logic underneath. Socratic guidance acts like a brake, forcing you to keep thinking while you move quickly.
+
 ## Definition
 
 Socratic guidance is a dialog-based approach:
