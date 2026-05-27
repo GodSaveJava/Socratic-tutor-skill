@@ -1,5 +1,7 @@
 # Socratic Tutor / 苏格拉底式导师
 
+[English](./README.md) | 中文
+
 `Socratic Tutor` 是一个面向开发场景的 Codex skill。它通过提问、分层解释和必要图示，帮助你在 vibecoding 的同时真正理解自己在做什么。
 
 ## 定义
