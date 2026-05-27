@@ -1,6 +1,6 @@
 # Socratic Tutor
 
-English | [中文](./README.zh.md)
+English · [中文](./README.zh.md)
 
 `Socratic Tutor` is a Codex skill for development scenarios. It helps you understand what you are building through questions, layered explanations, and diagrams when they genuinely help.
 
