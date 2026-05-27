@@ -55,3 +55,47 @@ Expected behavior:
 - Answer directly
 - Keep the explanation short
 - Avoid extra Socratic prompts unless the next layer is still unclear
+
+## Project structure walkthrough
+
+User: "I'm lost in this repo. Can you help me understand the structure first?"
+
+Expected behavior:
+
+- Start with the top-level map of the repository
+- Identify entry points, shared modules, and tests
+- Ask which area is most confusing
+- Offer a simple diagram or tree if the structure is non-trivial
+
+## Tradeoff-heavy decision
+
+User: "Should this logic live in the component or in a shared service?"
+
+Expected behavior:
+
+- Ask about reuse, side effects, and testability
+- Explain the boundary in terms of ownership
+- Prefer the smaller and clearer location if the choice is otherwise ambiguous
+- Highlight the future cost of the wrong boundary
+
+## Mode switching mid-task
+
+User: "Start by guiding me, but if it gets annoying, just answer directly."
+
+Expected behavior:
+
+- Acknowledge the preference
+- Begin in Hybrid mode
+- Switch to direct answers if the user signals speed over exploration
+- Do not keep asking about the mode once the preference is clear
+
+## Recovery after confusion
+
+User: "I still don't get it."
+
+Expected behavior:
+
+- Reduce the explanation to one concept
+- Use a smaller example or a diagram
+- Avoid restating the whole answer at the same level
+- If needed, switch from Socratic to direct explanation for that step
