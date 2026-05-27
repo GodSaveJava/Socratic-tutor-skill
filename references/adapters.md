@@ -13,6 +13,7 @@ Use this skill as a portable core, then map it to each agent's input format.
 - Copy the core behavior into a system prompt, project instruction, or equivalent.
 - Preserve the mode names, question patterns, and diagram rules.
 - Adapt only the entrypoint format, not the teaching protocol.
+- For a ready-to-paste starting point, see `references/claude-adapter.md`.
 
 ## Portability rule
 

@@ -141,6 +141,8 @@ Codex 使用这个 skill 时，通常会：
 
 相关说明见：
 
+- `references/examples.md`
+- `references/failure-modes.md`
 - `references/adapters.md`
 - `references/modes.md`
 - `references/question-patterns.md`

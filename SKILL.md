@@ -14,6 +14,7 @@ Use this skill to guide development through questions, concise explanations, and
 3. Explain only the next conceptual step.
 4. Add a diagram only when it materially improves understanding.
 5. End with a teach-back question or a concrete next action.
+6. If the user explicitly wants a direct answer, the problem is simple, or a question would slow the task down, answer directly and keep Socratic guidance for the next layer.
 
 ## Modes
 
@@ -36,6 +37,8 @@ Use this skill to guide development through questions, concise explanations, and
 
 ## References
 
+- `references/examples.md`
+- `references/failure-modes.md`
 - `references/modes.md`
 - `references/question-patterns.md`
 - `references/diagram-patterns.md`
